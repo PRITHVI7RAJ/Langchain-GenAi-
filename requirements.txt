@@ -1,0 +1,34 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+huggingface-hub
+#Local Hugging Face models require a deep learning framework such as PyTorch (or TensorFlow/Flax for some models).Since PyTorch isn't installed in your virtual environment, transformers cannot load TinyLlama.
+# Deep learning framework
+torch 
+torchvision 
+torchaudio
+# Transformers dependencies
+transformers 
+accelerate
+sentencepiece
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
