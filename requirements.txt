@@ -13,6 +13,12 @@ langchain-anthropic
 langchain-google-genai
 google-generativeai
 
+# Pinecone Integration
+langchain-pinecone 
+pinecone 
+
+
+
 # Hugging Face Integration
 langchain-huggingface
 huggingface-hub
@@ -30,5 +36,5 @@ sentencepiece
 python-dotenv
 
 # Machine Learning Utilities
-numpy
+numpy==1.26.4
 scikit-learn

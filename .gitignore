@@ -4,6 +4,6 @@ __pycache__/
 .venv/
 venv/
 langvenv/
-
+langvenv311/
 # Environment variables
 .env
